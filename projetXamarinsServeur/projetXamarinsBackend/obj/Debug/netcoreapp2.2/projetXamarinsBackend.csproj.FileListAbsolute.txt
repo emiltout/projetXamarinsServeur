@@ -1,0 +1,14 @@
+C:\projetXamarins\projetXamarinsServeur\projetXamarinsBackend\bin\Debug\netcoreapp2.2\projetXamarinsBackend.deps.json
+C:\projetXamarins\projetXamarinsServeur\projetXamarinsBackend\bin\Debug\netcoreapp2.2\projetXamarinsBackend.runtimeconfig.json
+C:\projetXamarins\projetXamarinsServeur\projetXamarinsBackend\bin\Debug\netcoreapp2.2\projetXamarinsBackend.runtimeconfig.dev.json
+C:\projetXamarins\projetXamarinsServeur\projetXamarinsBackend\bin\Debug\netcoreapp2.2\projetXamarinsBackend.dll
+C:\projetXamarins\projetXamarinsServeur\projetXamarinsBackend\bin\Debug\netcoreapp2.2\projetXamarinsBackend.pdb
+C:\projetXamarins\projetXamarinsServeur\projetXamarinsBackend\obj\Debug\netcoreapp2.2\projetXamarinsBackend.csprojAssemblyReference.cache
+C:\projetXamarins\projetXamarinsServeur\projetXamarinsBackend\obj\Debug\netcoreapp2.2\projetXamarinsBackend.csproj.CoreCompileInputs.cache
+C:\projetXamarins\projetXamarinsServeur\projetXamarinsBackend\obj\Debug\netcoreapp2.2\projetXamarinsBackend.RazorAssemblyInfo.cache
+C:\projetXamarins\projetXamarinsServeur\projetXamarinsBackend\obj\Debug\netcoreapp2.2\projetXamarinsBackend.RazorAssemblyInfo.cs
+C:\projetXamarins\projetXamarinsServeur\projetXamarinsBackend\obj\Debug\netcoreapp2.2\projetXamarinsBackend.AssemblyInfoInputs.cache
+C:\projetXamarins\projetXamarinsServeur\projetXamarinsBackend\obj\Debug\netcoreapp2.2\projetXamarinsBackend.AssemblyInfo.cs
+C:\projetXamarins\projetXamarinsServeur\projetXamarinsBackend\obj\Debug\netcoreapp2.2\projetXamarinsBackend.RazorTargetAssemblyInfo.cache
+C:\projetXamarins\projetXamarinsServeur\projetXamarinsBackend\obj\Debug\netcoreapp2.2\projetXamarinsBackend.dll
+C:\projetXamarins\projetXamarinsServeur\projetXamarinsBackend\obj\Debug\netcoreapp2.2\projetXamarinsBackend.pdb
